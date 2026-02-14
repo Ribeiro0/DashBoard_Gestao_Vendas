@@ -68,11 +68,6 @@ Identificação dos produtos com maior participação no faturamento.
 - Excel
 - Interpretação de dados de negócio
 
----
 
-## 📷 Preview do Dashboard
 
-Adicione aqui a imagem do dashboard:
 
-```bash
-dashboard.png
